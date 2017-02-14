@@ -52,21 +52,21 @@
     <Style_Border>true</Style_Border>
     <Style_VScroll>true</Style_VScroll>
     <Columns>
-      <Width>125</Width>
+      <Width>250</Width>
       <Heading>Item Name</Heading>
     </Columns>
     <Columns>
-      <Width>75</Width>
+      <Width>100</Width>
       <Heading>Price</Heading>
     </Columns>
     <Columns>
-      <Width>80</Width>
+      <Width>100</Width>
       <Heading>Seller</Heading>
     </Columns>
-    <Columns>
+<!--     <Columns>
       <Width>80</Width>
       <Heading>Stat</Heading>
-    </Columns>
+    </Columns> -->
   </Listbox>
   <Button item="BZR_Default">
     <ScreenID>BZR_Default</ScreenID>
@@ -760,13 +760,13 @@
       <Y>50</Y>
     </Location>
     <Size>
-      <CX>515</CX>
-      <CY>400</CY>
+      <CX>650</CX>
+      <CY>500</CY>
     </Size>
     <Text>Bazaar Search Window</Text>
     <Style_Transparent>false</Style_Transparent>
     <!--<TooltipReference/>-->
-    <DrawTemplate>WDT_Def</DrawTemplate>
+	<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
     <Style_Titlebar>true</Style_Titlebar>
     <Style_Closebox>true</Style_Closebox>
     <Style_Minimizebox>true</Style_Minimizebox>
@@ -785,7 +785,7 @@
     <Pieces>BZR_ItemNameLabel</Pieces>
     <Pieces>BZR_PlayersLabel</Pieces>
     <Pieces>BZR_ItemSlotLabel</Pieces>
-    <Pieces>BZR_StatSlotLabel</Pieces>
+	<Pieces>BZR_StatSlotLabel</Pieces>
     <Pieces>BZR_RaceSlotLabel</Pieces>
     <Pieces>BZR_ClassSlotLabel</Pieces>
     <Pieces>BZR_ItemTypeLabel</Pieces>
@@ -800,8 +800,8 @@
     <Pieces>BZR_WelcomeButton</Pieces>
     <Pieces>BZR_UpdatePlayerButton</Pieces>
     <Pieces>BZR_RequestItemButton</Pieces>
-    <Pieces>BZR_FindTraderButton</Pieces>
-    <Pieces>BZR_HideTradersButton</Pieces>
+<!--<Pieces>BZR_FindTraderButton</Pieces>
+    <Pieces>BZR_HideTradersButton</Pieces> -->
     <Pieces>BZR_Default</Pieces>
   </Screen>
 </XML>

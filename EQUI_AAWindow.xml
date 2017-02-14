@@ -6,11 +6,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>525</X>
+			<X>500</X>
 			<Y>200</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>100</CX>
 			<CY>24</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -37,11 +37,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>525</X>
+			<X>500</X>
 			<Y>236</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>100</CX>
 			<CY>24</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -68,11 +68,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>525</X>
+			<X>500</X>
 			<Y>272</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>100</CX>
 			<CY>24</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -399,7 +399,7 @@
 
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference/>
 		<DrawTemplate>WDT_Def</DrawTemplate>
 		<TabText>General</TabText>
@@ -450,7 +450,7 @@
 
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference/>
 		<DrawTemplate>WDT_Def</DrawTemplate>
 		<TabText>Archetype</TabText>
@@ -501,7 +501,7 @@
 
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference/>
 		<DrawTemplate>WDT_Def</DrawTemplate>
 		<TabText>Class</TabText>
@@ -552,7 +552,7 @@
 
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference/>
 		<DrawTemplate>WDT_Def</DrawTemplate>
 		<TabText>PoP Advance</TabText>
@@ -603,7 +603,7 @@
 
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference/>
 		<DrawTemplate>WDT_Def</DrawTemplate>
 		<TabText>PoP Ability</TabText>
@@ -681,7 +681,8 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
-		<Text>Alternate Advancement Window</Text>
+		<Text>AA Window</Text>
+<!-- 		<DrawTemplate>WDT_Def</DrawTemplate> -->
 		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
 		<Style_Titlebar>true</Style_Titlebar>
 		<Style_Closebox>true</Style_Closebox>

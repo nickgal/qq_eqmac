@@ -1398,7 +1398,7 @@
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<Style_VScroll>true</Style_VScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<DrawTemplate>WDT_Inner</DrawTemplate>
 		<Style_Titlebar>false</Style_Titlebar>
@@ -1547,10 +1547,10 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>5</LeftAnchorOffset>
+		<LeftAnchorOffset>1</LeftAnchorOffset>
 		<TopAnchorOffset>55</TopAnchorOffset>
-		<RightAnchorOffset>110</RightAnchorOffset>
-		<BottomAnchorOffset>30</BottomAnchorOffset>
+		<RightAnchorOffset>115</RightAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
 		<TopAnchorToTop>false</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<Style_Transparent>false</Style_Transparent>
@@ -1580,10 +1580,10 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>5</LeftAnchorOffset>
+		<LeftAnchorOffset>1</LeftAnchorOffset>
 		<TopAnchorOffset>55</TopAnchorOffset>
-		<RightAnchorOffset>110</RightAnchorOffset>
-		<BottomAnchorOffset>30</BottomAnchorOffset>
+		<RightAnchorOffset>115</RightAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
 		<TopAnchorToTop>false</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<Style_Transparent>false</Style_Transparent>
@@ -1613,10 +1613,10 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>5</LeftAnchorOffset>
+		<LeftAnchorOffset>1</LeftAnchorOffset>
 		<TopAnchorOffset>27</TopAnchorOffset>
-		<RightAnchorOffset>110</RightAnchorOffset>
-		<BottomAnchorOffset>2</BottomAnchorOffset>
+		<RightAnchorOffset>115</RightAnchorOffset>
+		<BottomAnchorOffset>1</BottomAnchorOffset>
 		<TopAnchorToTop>false</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<Style_Transparent>false</Style_Transparent>

@@ -296,7 +296,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>1</X>
-      <Y>296</Y>
+      <Y>270</Y>
     </Location>
     <Size>
       <CX>81</CX>
@@ -326,7 +326,7 @@
     </Location>
     <Size>
       <CX>91</CX>
-      <CY>325</CY>
+      <CY>300</CY>
     </Size>
     <Text>Bank</Text>
     <Style_Transparent>false</Style_Transparent>

@@ -394,7 +394,7 @@
     <RelativePosition>true</RelativePosition>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
+    <Style_Transparent>true</Style_Transparent>
     <TooltipReference>Socials Page</TooltipReference>
     <DrawTemplate>WDT_Def</DrawTemplate>
     <TabIcon>A_SocialsTabIcon</TabIcon>
@@ -1262,7 +1262,7 @@
     <RelativePosition>true</RelativePosition>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
+    <Style_Transparent>true</Style_Transparent>
     <TooltipReference>Main Page</TooltipReference>
     <DrawTemplate>WDT_Def</DrawTemplate>
     <TabIcon>A_MainTabIcon</TabIcon>
@@ -1475,7 +1475,7 @@
     <RelativePosition>true</RelativePosition>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
+    <Style_Transparent>true</Style_Transparent>
     <TooltipReference>Combat Page</TooltipReference>
     <DrawTemplate>WDT_Def</DrawTemplate>
     <TabIcon>A_CombatTabIcon</TabIcon>
@@ -1650,7 +1650,7 @@
     <RelativePosition>true</RelativePosition>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
+    <Style_Transparent>true</Style_Transparent>
     <TooltipReference>Abilities Page</TooltipReference>
     <DrawTemplate>WDT_Def</DrawTemplate>
     <TabIcon>A_AbilitiesTabIcon</TabIcon>

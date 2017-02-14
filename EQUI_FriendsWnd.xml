@@ -173,6 +173,7 @@
 				<B>0</B>
 		</TabTextActiveColor>
 		<Style_Sizable>true</Style_Sizable>
+		<Style_Transparent>true</Style_Transparent>
 		<Pieces>FW_FriendsList</Pieces>
 		<Pieces>FW_AddButton</Pieces>
 		<Pieces>FW_NameInput</Pieces>
@@ -293,6 +294,7 @@
 				<B>0</B>
 		</TabTextActiveColor>
 		<Style_Sizable>true</Style_Sizable>
+		<Style_Transparent>true</Style_Transparent>
 		<Pieces>FW_IgnoreList</Pieces>
 		<Pieces>FW_IgnoreAddButton</Pieces>
 		<Pieces>FW_IgnoreNameInput</Pieces>
@@ -302,7 +304,6 @@
 	<TabBox item = "FW_Subwindows">
 		<ScreenID>Subwindows</ScreenID>
 		<RelativePosition>true</RelativePosition>
-
 		<Location>
 			<X>2</X>
 			<Y>0</Y>

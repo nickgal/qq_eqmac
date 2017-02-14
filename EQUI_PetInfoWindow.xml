@@ -165,11 +165,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>28</Y>
+			<X>1</X>
+			<Y>26</Y>
 		</Location>
 		<Size>
-			<CX>108</CX>
+			<CX>134</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -198,11 +198,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>50</Y>
+			<X>1</X>
+			<Y>46</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -231,11 +231,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>56</X>
-			<Y>50</Y>
+			<X>68</X>
+			<Y>46</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -264,11 +264,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>74</Y>
+			<X>1</X>
+			<Y>66</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -297,11 +297,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>56</X>
-			<Y>74</Y>
+			<X>68</X>
+			<Y>66</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -331,11 +331,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>56</X>
-			<Y>74</Y>
+			<X>68</X>
+			<Y>66</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -364,11 +364,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>96</Y>
+			<X>1</X>
+			<Y>86</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -397,11 +397,11 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>56</X>
-			<Y>96</Y>
+			<X>68</X>
+			<Y>86</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
+			<CX>67</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -435,13 +435,13 @@
 		</Location>
 		<Size>
 			<CX>108</CX>
-			<CY>24</CY>
+			<CY>30</CY>
 		</Size>
 		<GaugeOffsetY>14</GaugeOffsetY>
-		<GaugeOffsetX>4</GaugeOffsetX>
-		<Text>No Pet</Text>
+		<GaugeOffsetX>2</GaugeOffsetX>
+		<Text>no pet</Text>
 		<TextOffsetY>0</TextOffsetY>
-		<TextOffsetX>5</TextOffsetX>
+		<TextOffsetX>2</TextOffsetX>
 		<TextColor>
 				<R>240</R>
 				<G>240</G>
@@ -479,7 +479,7 @@
 		<EQType>69</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>40</X>
+			<X>73</X>
 			<Y>10</Y>
 		</Location>
 		<Size>
@@ -506,8 +506,8 @@
 			<Y>3</Y>
 		</Location>
 		<Size>
-			<CX>16</CX>
-			<CY>12</CY>
+			<CX>0</CX>
+			<CY>0</CY>
 		</Size>
 		<Text>%</Text>
 		<TextColor>
@@ -672,8 +672,8 @@
 			<Y>160</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>125</CY>
+			<CX>144</CX>
+			<CY>115</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -697,7 +697,7 @@
 		<Pieces>PIW_StandButton</Pieces>
 		<Pieces>PIW_PetHPGauge</Pieces>
 		<Pieces>PIW_Pet_HPLabel</Pieces>
-		<!--<Pieces>PIW_Pet_HPPercLabel</Pieces>-->
+		<Pieces>PIW_Pet_HPPercLabel</Pieces>
 	</Screen>
 
 </XML>

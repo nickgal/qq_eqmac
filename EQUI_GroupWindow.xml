@@ -77,9 +77,9 @@
 			<CX>128</CX>
 			<CY>24</CY>
 		</Size>
-		<TextOffsetX>4</TextOffsetX>
-		<TextOffsetY>4</TextOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<TextOffsetX>1</TextOffsetX>
+		<TextOffsetY>2</TextOffsetY>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -125,7 +125,7 @@
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>-2</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -206,9 +206,9 @@
 			<CX>128</CX>
 			<CY>24</CY>
 		</Size>
-		<TextOffsetX>4</TextOffsetX>
-		<TextOffsetY>4</TextOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<TextOffsetX>1</TextOffsetX>
+		<TextOffsetY>2</TextOffsetY>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -254,7 +254,7 @@
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>-2</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -335,9 +335,9 @@
 			<CX>128</CX>
 			<CY>24</CY>
 		</Size>
-		<TextOffsetX>4</TextOffsetX>
-		<TextOffsetY>4</TextOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<TextOffsetX>1</TextOffsetX>
+		<TextOffsetY>2</TextOffsetY>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -383,7 +383,7 @@
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>-2</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -464,9 +464,9 @@
 			<CX>128</CX>
 			<CY>24</CY>
 		</Size>
-		<TextOffsetX>4</TextOffsetX>
-		<TextOffsetY>4</TextOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<TextOffsetX>1</TextOffsetX>
+		<TextOffsetY>2</TextOffsetY>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -512,7 +512,7 @@
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>-2</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -593,9 +593,9 @@
 			<CX>128</CX>
 			<CY>24</CY>
 		</Size>
-		<TextOffsetX>4</TextOffsetX>
-		<TextOffsetY>4</TextOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<TextOffsetX>1</TextOffsetX>
+		<TextOffsetY>2</TextOffsetY>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -641,7 +641,7 @@
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>-2</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>1</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -687,7 +687,7 @@
 		<EQType>35</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>74</X>
+			<X>73</X>
 			<Y>12</Y>
 		</Location>
 		<Size>
@@ -714,7 +714,7 @@
 		<EQType>36</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>74</X>
+			<X>73</X>
 			<Y>40</Y>
 		</Location>
 		<Size>
@@ -741,7 +741,7 @@
 		<EQType>37</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>74</X>
+			<X>73</X>
 			<Y>68</Y>
 		</Location>
 		<Size>
@@ -768,7 +768,7 @@
 		<EQType>38</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>74</X>
+			<X>73</X>
 			<Y>96</Y>
 		</Location>
 		<Size>
@@ -795,7 +795,7 @@
 		<EQType>39</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>74</X>
+			<X>73</X>
 			<Y>124</Y>
 		</Location>
 		<Size>

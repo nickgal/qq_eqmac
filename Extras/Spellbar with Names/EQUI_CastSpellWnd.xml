@@ -32,13 +32,13 @@
 	<Button item="CSPW_SpellBook">
 		<ScreenID>CSPW_SpellBook</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Font>1</Font>
+		<Font>3</Font>
 		<Location>
 			<X>1</X>
 			<Y>241</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>23</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -69,7 +69,7 @@
 			<Y>1</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -77,7 +77,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 		</SpellGem>
 	<Label item ="CSPW_Spell0_Name">
@@ -89,8 +89,8 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>60</EQType>
 		<TextColor>
@@ -110,7 +110,7 @@
 			<Y>31</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -118,7 +118,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell1_Name">
@@ -151,7 +151,7 @@
 			<Y>61</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -159,7 +159,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell2_Name">
@@ -171,8 +171,8 @@
 			<Y>61</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>62</EQType>
 		<TextColor>
@@ -192,7 +192,7 @@
 			<Y>91</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -200,7 +200,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell3_Name">
@@ -212,8 +212,8 @@
 			<Y>91</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>63</EQType>
 		<TextColor>
@@ -233,7 +233,7 @@
 			<Y>121</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -241,7 +241,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell4_Name">
@@ -253,8 +253,8 @@
 			<Y>121</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>64</EQType>
 		<TextColor>
@@ -274,7 +274,7 @@
 			<Y>151</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -282,7 +282,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell5_Name">
@@ -294,8 +294,8 @@
 			<Y>151</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>65</EQType>
 		<TextColor>
@@ -315,7 +315,7 @@
 			<Y>181</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -323,7 +323,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell6_Name">
@@ -335,8 +335,8 @@
 			<Y>181</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>66</EQType>
 		<TextColor>
@@ -356,7 +356,7 @@
 			<Y>211</Y>
 		</Location>
 		<Size>
-			<CX>35</CX>
+			<CX>102</CX>
 			<CY>28</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -364,7 +364,7 @@
 			<Background>A_BtnFlyby</Background>
 			<Highlight>A_SpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>5</SpellIconOffsetX>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
 		<SpellIconOffsetY>2</SpellIconOffsetY>
 	</SpellGem>
 	<Label item ="CSPW_Spell7_Name">
@@ -376,8 +376,8 @@
 			<Y>211</Y>
 		</Location>
 		<Size>
-			<CX>0</CX>
-			<CY>0</CY>
+			<CX>65</CX>
+			<CY>30</CY>
 		</Size>
 		<EQType>67</EQType>
 		<TextColor>
@@ -406,7 +406,7 @@
 			<Y>25</Y>
 		</Location>
 		<Size>
-			<CX>44</CX>
+			<CX>112</CX>
 			<CY>273</CY>
 		</Size>
 		<Text>Spells</Text>
@@ -429,7 +429,7 @@
 		<Pieces>CSPW_Spell7</Pieces>
 		<Pieces>CSPW_Spell8</Pieces>
 		<Pieces>CSPW_SpellBook</Pieces>
-<!-- 		
+		
 		<Pieces>CSPW_Spell0_Name</Pieces>
 		<Pieces>CSPW_Spell1_Name</Pieces>
 		<Pieces>CSPW_Spell2_Name</Pieces>
@@ -438,6 +438,6 @@
 		<Pieces>CSPW_Spell5_Name</Pieces>
 		<Pieces>CSPW_Spell6_Name</Pieces>
 		<Pieces>CSPW_Spell7_Name</Pieces>
-		 -->
+		
 	</Screen>
 </XML>

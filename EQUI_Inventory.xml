@@ -905,7 +905,7 @@
       <LinesFill>A_GaugeLinesFill</LinesFill>
     </GaugeDrawTemplate>
   </Gauge>
-  <Label item="IW_AltAdv">
+	<Label item="IW_AltAdv">
     <ScreenID>AltAdvLabel</ScreenID>
     <Size>
       <CX>1</CX>
@@ -1785,7 +1785,7 @@
     </Size>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
+    <Style_Transparent>true</Style_Transparent>
     <TooltipReference>Drop Item Here to Auto Equip</TooltipReference>
     <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
     <Style_Titlebar>false</Style_Titlebar>
@@ -1862,13 +1862,34 @@
       <CY>1</CY>
     </Size>
   </Button>
-  <Button item="IW_AltAdvBtn">
-    <ScreenID>IW_AltAdvBtn</ScreenID>
+		
+	<Button item = "IW_AltAdvBtn">
+		<ScreenID>IW_AltAdvBtn</ScreenID>
+		<RelativePosition>true</RelativePosition>
+    <Location>
+      <X>88</X>
+      <Y>325</Y>
+    </Location>
     <Size>
-      <CX>1</CX>
-      <CY>1</CY>
+      <CX>85</CX>
+      <CY>20</CY>
     </Size>
-  </Button>
+		<Text>Alt. Advance</Text>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>		
+		
+		
   <Button item="IW_ReclaimButton">
     <ScreenID>IW_ReclaimButton</ScreenID>
   </Button>
@@ -1979,13 +2000,12 @@
     <Pieces>IW_CurrentWeight</Pieces>
     <Pieces>IW_WeightNumber</Pieces>
     <Pieces>IW_MaxWeight</Pieces>
-    <Pieces>IW_AltAdv</Pieces>
+	<Pieces>IW_AltAdv</Pieces>
     <Pieces>IW_AltAdvGauge</Pieces>
     <Pieces>IW_CharacterView</Pieces>
     <Pieces>IW_DoneButton</Pieces>
-    <Pieces>IW_FacePick</Pieces>
+    <!-- <Pieces>IW_FacePick</Pieces> -->
     <Pieces>IW_Tinting</Pieces>
-    <Pieces>IW_AltAdvBtn</Pieces>
     <Pieces>ClassAnim</Pieces>
   </Screen>
 </XML>

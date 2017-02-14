@@ -548,7 +548,7 @@
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<Style_VScroll>true</Style_VScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<DrawTemplate>WDT_Inner</DrawTemplate>
 		<Pieces>LW_LootSlot0</Pieces>

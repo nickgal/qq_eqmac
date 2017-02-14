@@ -533,8 +533,8 @@
 			<Y>78</Y>
 		</Location>
 		<Size>
-			<CX>335</CX>
-			<CY>280</CY>
+			<CX>435</CX>
+			<CY>480</CY>
 		</Size>
 		<Text>Raid Window</Text>
 		<Style_VScroll>false</Style_VScroll>

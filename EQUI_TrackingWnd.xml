@@ -302,9 +302,9 @@
     <!--<Font>3</Font>-->
     <RelativePosition>true</RelativePosition>
     <AutoStretch>true</AutoStretch>
-    <LeftAnchorOffset>3</LeftAnchorOffset>
-    <TopAnchorOffset>45</TopAnchorOffset>
-    <RightAnchorOffset>3</RightAnchorOffset>
+    <LeftAnchorOffset>1</LeftAnchorOffset>
+    <TopAnchorOffset>48</TopAnchorOffset>
+    <RightAnchorOffset>1</RightAnchorOffset>
     <BottomAnchorOffset>25</BottomAnchorOffset>
     <TopAnchorToTop>false</TopAnchorToTop>
     <BottomAnchorToTop>false</BottomAnchorToTop>
@@ -333,10 +333,10 @@
     <!--<Font>3</Font>-->
     <RelativePosition>true</RelativePosition>
     <AutoStretch>true</AutoStretch>
-    <LeftAnchorOffset>3</LeftAnchorOffset>
-    <TopAnchorOffset>22</TopAnchorOffset>
-    <RightAnchorOffset>3</RightAnchorOffset>
-    <BottomAnchorOffset>2</BottomAnchorOffset>
+    <LeftAnchorOffset>1</LeftAnchorOffset>
+    <TopAnchorOffset>24</TopAnchorOffset>
+    <RightAnchorOffset>1</RightAnchorOffset>
+    <BottomAnchorOffset>1</BottomAnchorOffset>
     <TopAnchorToTop>false</TopAnchorToTop>
     <BottomAnchorToTop>false</BottomAnchorToTop>
     <RightAnchorToLeft>false</RightAnchorToLeft>
@@ -345,7 +345,7 @@
     <!--<TooltipReference/>-->
     <Style_Checkbox>false</Style_Checkbox>
     <!--<RadioGroup/>-->
-    <Text>Cancel</Text>
+    <Text>Done</Text>
     <TextColor>
       <R>255</R>
       <G>255</G>
@@ -377,6 +377,7 @@
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
     <Style_Transparent>false</Style_Transparent>
+	<Text>Tracking</Text>
     <!--<TooltipReference/>-->
     <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
     <Style_Titlebar>true</Style_Titlebar>
